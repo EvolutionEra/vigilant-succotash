@@ -1,0 +1,19 @@
+[16:56:25][defines.cpp:135]: 2046 defines loaded
+[16:56:35][gamestate.cpp:1785]: Loaded 13205 provinces.
+[16:56:37][gameapplication.cpp:1911]: Resetting game
+[16:56:38][gameapplication.cpp:1911]: Resetting game
+[16:56:38][history.cpp:185]: Executing History from -1.1.1.1 to  2.1.1.1
+[16:56:38][history.cpp:185]: Executing History from 2.1.1.1 to  1936.1.1.12
+[16:58:37][frontend.cpp:635]: 
+
+		[[ Launching SINGLEPLAYER-game ]]
+	Start-date: 1936.1.1.12
+
+[16:58:39][ingameidler.cpp:4177]: Start RestoreDeviceObjects
+[16:58:43][ingameidler.cpp:4322]: End RestoreDeviceObjects
+[17:02:59][ingameidler.cpp:5025]: Resetting gamestate
+[17:02:59][gameapplication.cpp:1911]: Resetting game
+[17:02:59][ingameidler.cpp:5060]: Gamestate successfully resetted
+[17:02:59][gameapplication.cpp:1911]: Resetting game
+[17:03:00][history.cpp:185]: Executing History from -1.1.1.1 to  2.1.1.1
+[17:03:00][history.cpp:185]: Executing History from 2.1.1.1 to  1936.1.1.12

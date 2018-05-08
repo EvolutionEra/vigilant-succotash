@@ -1,0 +1,463 @@
+[main.cpp:1188]: Invalid command line argument: psn_0_3707785
+[main.cpp:386]: 
+Game Version: EU4 v1.24.1.0 Japan.40499
+Time:2018-03-12 16:49
+Configuration: Release
+[fixedwindow.cpp:2854]: interface/settings.gui: Missing Button 'allow_hotjoin' in window 'menu_settings_GAME'.
+[fixedwindow.cpp:2854]: interface/settings.gui: Missing Button 'allow_coop' in window 'menu_settings_GAME'.
+[fixedwindow.cpp:2854]: interface/settings.gui: Missing Button 'hints_active' in window 'menu_settings_GAME'.
+[province.cpp:7466]: Failed to remove prov 384 as core for TUR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 385 as core for TUR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 388 as core for TUR, it hasnt got it!
+[country.cpp:12472]: Attempting to set capital province #4282 for RAS, they dont own it!
+[province.cpp:7466]: Failed to remove prov 398 as core for OMA, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 413 as core for AKK, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 418 as core for AKK, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 424 as core for AKK, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 431 as core for KHO, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 578 as core for TIM, it hasnt got it!
+[country.cpp:12472]: Attempting to set capital province #2076 for DLH, they dont own it!
+[province.cpp:7466]: Failed to remove prov 2202 as core for QAR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 2214 as core for PER, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 2228 as core for KHO, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 2307 as core for QAR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 2329 as core for TUR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 2330 as core for TUR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 2331 as core for TUR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 2332 as core for TUR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 4147 as core for MOS, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 4277 as core for TUR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 4278 as core for TUR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 4288 as core for AKK, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 4296 as core for QAR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 4302 as core for QAR, it hasnt got it!
+[province.cpp:7466]: Failed to remove prov 4327 as core for KHO, it hasnt got it!
+[country.cpp:12472]: Attempting to set capital province #428 for ARL, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #429 for ARL, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #353 for TRP, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #2453 for TRP, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #446 for KHO, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #451 for KHO, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #446 for KHO, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #2031 for GAZ, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #421 for GAZ, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #1123 for SON, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #2756 for KAF, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #1820 for HSK, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #1019 for HSK, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #1830 for HSK, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #1014 for HSK, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #1014 for HSK, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #1024 for UES, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #451 for MUG, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #524 for MUG, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #507 for MUG, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #524 for MUG, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #545 for MUG, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #2029 for KLN, they dont own it!
+[country.cpp:12472]: Attempting to set capital province #511 for KGR, they dont own it!
+[country.cpp:29075]: UpdateWarStatus found country Khorasan that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Khorasan that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Khorasan that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Khorasan that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Khorasan that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hosokawa that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Kangra that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[province.cpp:7574]: Failed to set prov 542 as claim for MUG, it is already claim!
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Abenaki that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Netherlands that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital
+[country.cpp:29075]: UpdateWarStatus found country Hanover that does not own its capital

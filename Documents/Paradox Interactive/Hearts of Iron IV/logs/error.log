@@ -1,0 +1,3 @@
+[16:56:56][gamelobby.cpp:1573]: Exception in: /Users/jenkins/slave/workspace/HOI4-Live-R-Steam-OSX/clausewitz_hoi4/clausewitzlib/remotefile.cpp, line: 254. Description: Failed allocate data buffer.
+[17:03:00][gamelobby.cpp:1573]: Exception in: /Users/jenkins/slave/workspace/HOI4-Live-R-Steam-OSX/clausewitz_hoi4/clausewitzlib/remotefile.cpp, line: 254. Description: Failed allocate data buffer.
+[17:03:01][gamelobby.cpp:1573]: Exception in: /Users/jenkins/slave/workspace/HOI4-Live-R-Steam-OSX/clausewitz_hoi4/clausewitzlib/remotefile.cpp, line: 254. Description: Failed allocate data buffer.

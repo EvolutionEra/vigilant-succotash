@@ -1,0 +1,1027 @@
+[16:45:37][musicmanager.cpp:168]: Loaded 2 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 6 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 7 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 8 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 9 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 10 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 27 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 32 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 34 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 38 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 39 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 40 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 41 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 42 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 59 songs.
+[16:45:37][musicmanager.cpp:168]: Loaded 64 songs.
+[16:46:00][game_application.cpp:1274]: Initializing Database: CBuildingTagDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CWeaponTagDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CStrategicResourceDatabase
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #0 tag = time name = time
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #1 tag = energy name = 能量币
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #2 tag = minerals name = 矿物
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #3 tag = food name = 食物
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #4 tag = physics_research name = 物理研究
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #5 tag = society_research name = 社会研究
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #6 tag = engineering_research name = 工程研究
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #7 tag = influence name = 影响力
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #8 tag = unity name = 凝聚力
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #9 tag = sr_terraform_gases name = 地貌改造气体
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #10 tag = sr_terraform_liquids name = 地貌改造液体
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #11 tag = sr_garanthium name = 迦蓝矿
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #12 tag = sr_lythuric name = 莱素气体
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #13 tag = sr_teldar name = 特尔达水晶
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #14 tag = sr_yuranic name = 育兰晶
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #15 tag = sr_orillium name = 奥利姆矿石
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #16 tag = sr_pitharan name = 皮萨兰星尘
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #17 tag = sr_engos name = 恩吉欧气体
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #18 tag = sr_neutronium name = 零素矿石
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #19 tag = sr_living_metal name = 活性金属
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #20 tag = sr_zro name = 泽珞
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #21 tag = sr_dark_matter name = 暗物质
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #22 tag = sr_satramene name = 萨特拉烯
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #23 tag = sr_alien_pets name = 外星宠物
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #24 tag = sr_betharian name = 贝塞里安石
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #25 tag = sr_riggan name = 里甘香料
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #26 tag = sr_xuran name = 雪拉凝胶
+[16:46:00][strategic_resource.cpp:649]: Strategic Resource #27 tag = sr_muutagan name = 穆塔根晶体
+[16:46:00][game_application.cpp:1274]: Initializing Database: CArmyTypeDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CSubjectTypeDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CShipBehaviorDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CAmbientObjectDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CEmpireFlagDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CGfxCultureDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CShipSizeDatabase
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: corvette_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: corvette_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: corvette_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: corvette_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: corvette_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: destroyer_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: destroyer_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: destroyer_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: destroyer_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: destroyer_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: cruiser_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: cruiser_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: cruiser_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: cruiser_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: cruiser_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: battleship_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: battleship_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: battleship_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: battleship_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: battleship_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: titan_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: titan_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: titan_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: titan_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: titan_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: constructor_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: constructor_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: constructor_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: constructor_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: constructor_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colonizer_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colonizer_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colonizer_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colonizer_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colonizer_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: science_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: science_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: science_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: science_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: science_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_medium_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_medium_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_medium_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_medium_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_medium_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: mining_station_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: mining_station_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: mining_station_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: mining_station_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: mining_station_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: research_station_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: research_station_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: research_station_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: research_station_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: research_station_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: observation_station_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: observation_station_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: observation_station_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: observation_station_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: observation_station_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_outpost_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_outpost_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_outpost_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_outpost_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_outpost_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starport_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starport_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starport_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starport_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starport_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starhold_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starhold_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starhold_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starhold_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starhold_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starfortress_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starfortress_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starfortress_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starfortress_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_starfortress_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_citadel_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_citadel_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_citadel_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_citadel_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_citadel_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_swarm_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_swarm_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_swarm_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_swarm_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_swarm_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_exd_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_exd_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_exd_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_exd_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_exd_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_marauder_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_marauder_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_marauder_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_marauder_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: starbase_marauder_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ion_cannon_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ion_cannon_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ion_cannon_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ion_cannon_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ion_cannon_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colossus_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colossus_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colossus_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colossus_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colossus_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: asteroid_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: asteroid_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: asteroid_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: asteroid_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: asteroid_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: abandoned_ship_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: abandoned_ship_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: abandoned_ship_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: abandoned_ship_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: abandoned_ship_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ark_ship_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ark_ship_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ark_ship_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ark_ship_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ark_ship_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: probe_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: probe_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: probe_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: probe_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: probe_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_generic_01_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_generic_01_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_generic_01_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_generic_01_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_generic_01_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sensor_station_01_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sensor_station_01_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sensor_station_01_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sensor_station_01_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sensor_station_01_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: alien_racing_ship_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: alien_racing_ship_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: alien_racing_ship_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: alien_racing_ship_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: alien_racing_ship_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_01_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_01_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_01_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_01_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_01_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_02_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_02_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_02_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_02_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_02_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_03_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_03_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_03_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_03_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_03_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_04_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_04_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_04_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_04_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_04_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: nomad_destroyer_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: nomad_destroyer_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: nomad_destroyer_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: nomad_destroyer_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: nomad_destroyer_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_05_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_05_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_05_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_05_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_05_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_06_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_06_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_06_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_06_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_06_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_07_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_07_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_07_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_07_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: eventship_07_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: civilian_freighter_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: civilian_freighter_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: civilian_freighter_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: civilian_freighter_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: civilian_freighter_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: civilian_tanker_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: civilian_tanker_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: civilian_tanker_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: civilian_tanker_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: civilian_tanker_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: passenger_liner_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: passenger_liner_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: passenger_liner_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: passenger_liner_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: passenger_liner_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: primitive_space_station_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: primitive_space_station_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: primitive_space_station_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: primitive_space_station_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: primitive_space_station_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_drone_station_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_drone_station_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_drone_station_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_drone_station_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_drone_station_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_swarm_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_swarm_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_swarm_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_swarm_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_swarm_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_carrier_swarm_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_carrier_swarm_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_carrier_swarm_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_carrier_swarm_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_carrier_swarm_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_swarm_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_swarm_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_swarm_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_swarm_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_swarm_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: queen_swarm_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: queen_swarm_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: queen_swarm_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: queen_swarm_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: queen_swarm_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_swarm_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_swarm_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_swarm_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_swarm_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_swarm_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colony_ship_swarm_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colony_ship_swarm_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colony_ship_swarm_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colony_ship_swarm_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colony_ship_swarm_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_ship_swarm_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_ship_swarm_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_ship_swarm_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_ship_swarm_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_ship_swarm_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sentinel_station_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sentinel_station_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sentinel_station_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sentinel_station_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sentinel_station_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: massive_ship_fallen_empire_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: massive_ship_fallen_empire_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: massive_ship_fallen_empire_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: massive_ship_fallen_empire_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: massive_ship_fallen_empire_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_fallen_empire_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_fallen_empire_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_fallen_empire_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_fallen_empire_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_fallen_empire_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_fallen_empire_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_fallen_empire_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_fallen_empire_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_fallen_empire_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_fallen_empire_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_fallen_empire_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_fallen_empire_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_fallen_empire_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_fallen_empire_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_fallen_empire_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_fallen_empire_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_fallen_empire_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_fallen_empire_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_fallen_empire_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_fallen_empire_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_ed_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_ed_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_ed_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_ed_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_ed_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: medium_ship_ed_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: medium_ship_ed_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: medium_ship_ed_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: medium_ship_ed_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: medium_ship_ed_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_ed_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_ed_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_ed_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_ed_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_ed_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: dimensional_portal_ed_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: dimensional_portal_ed_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: dimensional_portal_ed_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: dimensional_portal_ed_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: dimensional_portal_ed_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_ed_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_ed_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_ed_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_ed_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_ed_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_blue_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_blue_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_blue_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_blue_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_blue_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_blue_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_blue_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_blue_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_blue_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_blue_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_blue_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_blue_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_blue_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_blue_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_blue_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_green_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_green_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_green_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_green_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_green_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_green_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_green_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_green_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_green_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_green_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_green_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_green_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_green_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_green_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_green_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_yellow_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_yellow_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_yellow_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_yellow_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_yellow_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_yellow_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_yellow_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_yellow_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_yellow_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_yellow_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_yellow_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_yellow_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_yellow_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_yellow_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_yellow_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_red_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_red_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_red_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_red_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_red_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_red_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_red_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_red_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_red_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_red_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_red_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_red_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_red_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_red_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_red_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_blue_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_blue_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_blue_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_blue_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_blue_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_blue_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_blue_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_blue_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_blue_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_blue_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_blue_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_blue_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_blue_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_blue_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_blue_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_green_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_green_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_green_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_green_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_green_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_green_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_green_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_green_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_green_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_green_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_green_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_green_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_green_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_green_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_green_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_yellow_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_yellow_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_yellow_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_yellow_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_yellow_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_yellow_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_yellow_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_yellow_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_yellow_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_yellow_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_yellow_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_yellow_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_yellow_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_yellow_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_yellow_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_red_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_red_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_red_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_red_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_small_red_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_red_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_red_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_red_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_red_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_medium_red_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_red_elite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_red_elite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_red_elite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_red_elite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_ship_large_red_elite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_station_large_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_station_large_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_station_large_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_station_large_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: crystal_station_large_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_cloud_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_cloud_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_cloud_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_cloud_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_cloud_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_amoeba_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_amoeba_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_amoeba_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_amoeba_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_amoeba_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_amoeba_mother_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_amoeba_mother_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_amoeba_mother_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_amoeba_mother_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_amoeba_mother_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_1_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_1_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_1_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_1_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_1_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_2_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_2_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_2_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_2_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_2_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_3_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_3_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_3_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_3_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_3_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_4_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_4_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_4_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_4_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_whale_4_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_mining_drone_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_mining_drone_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_mining_drone_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_mining_drone_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_mining_drone_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_corvette_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_corvette_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_corvette_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_corvette_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_corvette_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_destroyer_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_destroyer_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_destroyer_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_destroyer_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: ancient_destroyer_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_corvette_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_corvette_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_corvette_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_corvette_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_corvette_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_destroyer_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_destroyer_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_destroyer_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_destroyer_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_destroyer_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_cruiser_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_cruiser_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_cruiser_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_cruiser_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_cruiser_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_galleon_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_galleon_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_galleon_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_galleon_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_galleon_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_station_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_station_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_station_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_station_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_station_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_void_dwelling_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_void_dwelling_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_void_dwelling_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_void_dwelling_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: marauder_void_dwelling_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_corvette_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_corvette_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_corvette_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_corvette_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_corvette_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_destroyer_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_destroyer_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_destroyer_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_destroyer_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_destroyer_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_cruiser_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_cruiser_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_cruiser_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_cruiser_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_cruiser_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_station_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_station_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_station_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_station_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: pirate_station_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: large_ship_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: small_ship_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_large_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: military_station_small_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: core_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: core_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: core_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: core_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: core_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: final_core_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: final_core_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: final_core_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: final_core_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: final_core_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: construction_ship_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colony_ship_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colony_ship_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colony_ship_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colony_ship_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: colony_ship_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_ship_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_ship_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_ship_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_ship_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: transport_ship_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_core_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_core_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_core_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_core_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_core_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_military_station_large_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_military_station_large_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_military_station_large_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_military_station_large_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_military_station_large_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_military_station_small_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_military_station_small_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_military_station_small_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_military_station_small_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_military_station_small_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_transport_ship_ai_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_transport_ship_ai_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_transport_ship_ai_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_transport_ship_ai_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: blue_transport_ship_ai_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_dragon_red_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_dragon_red_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_dragon_red_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_dragon_red_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_dragon_red_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: enclave_station_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: enclave_station_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: enclave_station_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: enclave_station_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: enclave_station_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: stellarite_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: stellarite_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: stellarite_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: stellarite_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: stellarite_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sphere_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sphere_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sphere_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sphere_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: sphere_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: galleon_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: galleon_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: galleon_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: galleon_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: galleon_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_xl_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_xl_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_xl_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_xl_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_xl_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_l_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_l_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_l_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_l_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_l_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_m_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_m_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_m_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_m_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_m_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_s_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_s_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_s_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_s_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_s_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_xs_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_xs_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_xs_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_xs_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: station_xs_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: dimensional_horror_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: dimensional_horror_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: dimensional_horror_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: dimensional_horror_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: dimensional_horror_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: npc_warship_01_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: npc_warship_01_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: npc_warship_01_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: npc_warship_01_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: npc_warship_01_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: homebase_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: homebase_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: homebase_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: homebase_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: homebase_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: hive_asteroid_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: hive_asteroid_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: hive_asteroid_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: hive_asteroid_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: hive_asteroid_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_blue_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_blue_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_blue_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_blue_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_blue_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_red_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_red_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_red_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_red_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_red_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_yellow_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_yellow_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_yellow_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_yellow_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: wraith_01_yellow_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_dragon_baby_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_dragon_baby_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_dragon_baby_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_dragon_baby_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: space_dragon_baby_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: psionic_avatar_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: psionic_avatar_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: psionic_avatar_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: psionic_avatar_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: psionic_avatar_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: corrupted_avatar_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: corrupted_avatar_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: corrupted_avatar_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: corrupted_avatar_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: corrupted_avatar_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: shroud_manifestation_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: shroud_manifestation_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: shroud_manifestation_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: shroud_manifestation_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: shroud_manifestation_hull_add
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: warped_consciousness_build_speed_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: warped_consciousness_build_cost_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: warped_consciousness_upkeep_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: warped_consciousness_hull_mult
+[16:46:00][ship_size.cpp:311]: Missing ship size Localization Key: warped_consciousness_hull_add
+[16:46:00][game_application.cpp:1274]: Initializing Database: CProjectileGfxDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CPortraitDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CCountryTypeDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: COpinionModifierDatabase
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #0 tag =  name = 
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #1 tag = opinion_cheat name = opinion_cheat
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #2 tag = opinion_in_war name = 战争中
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #3 tag = opinion_alliance name = 盟友
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #4 tag = opinion_defensive_pact name = 共同防御条约
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #5 tag = opinion_federation_associate name = 联邦协从国
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #6 tag = opinion_federation name = 联邦成员
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #7 tag = opinion_guarantees_independence name = 保证独立
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #8 tag = opinion_closed_borders name = 关闭边境
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #9 tag = opinion_subject name = 相同宗主
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #10 tag = opinion_is_subject name = 附属
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #11 tag = opinion_repugnant_species name = 令人厌恶的统治者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #12 tag = opinion_charismatic_species name = 魅力非凡的统治者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #13 tag = opinion_policy_interference name = 土著干涉政策
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #14 tag = opinion_policy_slavery name = 奴隶政策
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #15 tag = opinion_policy_orbital_bombardment name = 轨道轰炸政策
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #16 tag = opinion_first_contact_hostility name = 初接触敌意
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #17 tag = opinion_first_contact_war name = 第一次接触战
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #18 tag = opinion_xenophobes name = 排外主义的老顽固
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #19 tag = opinion_xenophiles name = 亲外主义的外交
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #20 tag = opinion_xenophobia name = 排外主义者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #21 tag = opinion_xenophilia name = 亲外主义者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #22 tag = opinion_of_materialist name = 唯物主义的蠢蛋
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #23 tag = opinion_of_materialist_pos name = 光伟正的唯物主义者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #24 tag = opinion_of_spiritualist name = 唯心主义的白痴
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #25 tag = opinion_of_spiritualist_pos name = 睿智的唯心主义者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #26 tag = opinion_of_egalitarian name = 平等主义刁民
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #27 tag = opinion_of_egalitarian_pos name = 自由的平等主义者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #28 tag = opinion_of_pacifist_pos name = 开明的和平主义者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #29 tag = opinion_of_authoritarian name = 独裁暴君
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #30 tag = opinion_declared_war name = 曾有战争
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #31 tag = opinion_xenophage name = 外族捕食者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #32 tag = opinion_biophage name = 生物吞噬者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #33 tag = opinion_genocidal name = 种族灭绝者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #34 tag = opinion_genocidal_our_species name = 清洗我们的种族
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #35 tag = opinion_nuker name = 令人恐惧的轰炸
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #36 tag = opinion_changed_federation name = 联邦成员变更
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #37 tag = opinion_broke_federation name = 抛弃联邦
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #38 tag = opinion_broke_association_status name = 中止协从身份
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #39 tag = opinion_kicked_from_alliance name = 将我们提出联盟
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #40 tag = opinion_tried_to_kick name = 试图将我们踢出联盟
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #41 tag = opinion_voted_down_proposal name = 反对我们的提案
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #42 tag = opinion_changed_alliance name = 盟友变更
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #43 tag = opinion_broke_alliance name = 撕毁盟约
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #44 tag = opinion_broke_defensive_pact name = 撕毁共同防御条约
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #45 tag = opinion_broke_non_aggression_pact name = 撕毁互不侵犯条约
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #46 tag = opinion_broke_migration_pact name = 撕毁移民条约
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #47 tag = opinion_broke_guarantee name = 收回独立保障
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #48 tag = opinion_subject_protection name = 同意成为被保护国
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #49 tag = opinion_cede_planet name = 战争中割让星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #50 tag = opinion_forced_subjectized name = 被强制附属
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #51 tag = opinion_subject_released name = 从宗主手中被解放的
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #52 tag = opinion_status_quo_not_accepted name = opinion_status_quo_not_accepted
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #53 tag = opinion_trade_gift name = 受惠的贸易协定
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #54 tag = opinion_was_in_trade name = 撕毁贸易条约
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #55 tag = opinion_subject_broke_free name = 从宗主中独立
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #56 tag = opinion_new_contact name = 初接触
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #57 tag = opinion_threat name = 受到威胁
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #58 tag = opinion_trust name = 信任
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #59 tag = opinion_relative_power name = 属国的相对实力
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #60 tag = opinion_friction name = 边境摩擦
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #61 tag = opinion_claims_on_us name = 我们对他们的宣称
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #62 tag = opinion_their_claims name = 他们对我们的宣称
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #63 tag = opinion_rivalry name = 我们的宿敌
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #64 tag = opinion_declared_rival name = 视我们为宿敌
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #65 tag = opinion_ally_of_ally name = 盟友的盟友
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #66 tag = opinion_mutual_rival name = 共同宿敌
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #67 tag = opinion_mutual_threat name = 共同威胁
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #68 tag = opinion_allied_to_rival name = 与我们的宿敌是盟友
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #69 tag = opinion_rivals_with_ally name = 视我们的盟友为宿敌
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #70 tag = opinion_insult name = 被羞辱
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #71 tag = opinion_demanded_subjectization name = 拒绝臣服
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #72 tag = opinion_decline_war name = 拒绝应战
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #73 tag = opinion_inactive_in_war name = 消极应战
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #74 tag = opinion_broke_away name = 独立成国
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #75 tag = opinion_broke_away_from name = 过去的压迫者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #76 tag = opinion_we_liberated name = 被解放的
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #77 tag = opinion_liberated_us name = 解放者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #78 tag = opinion_took_station name = 夺取资源空间站
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #79 tag = opinion_abandoned_apology name = 被抛弃的难民
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #80 tag = opinion_abandoned name = 被抛弃的难民
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #81 tag = opinion_abandoned_insult name = 被抛弃的难民
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #82 tag = opinion_crew_saved name = 幸存的船员
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #83 tag = opinion_graverobber_1 name = 亵渎的坟墓
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #84 tag = opinion_graverobber_2 name = 亵渎的坟墓
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #85 tag = opinion_graverobber_3 name = 亵渎的坟墓
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #86 tag = opinion_literary_savior name = 文学救世主
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #87 tag = opinion_book_burner name = 书籍焚化炉
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #88 tag = opinion_dead_captives name = opinion_dead_captives
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #89 tag = opinion_live_captives name = opinion_live_captives
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #90 tag = opinion_faction_insult name = 派系侮辱
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #91 tag = opinion_enlightened_us name = 启蒙我们
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #92 tag = opinion_destroyed_portal name = 摧毁空间传送门
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #93 tag = opinion_swarm name = 跨河系入侵者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #94 tag = opinion_prey name = 猎物
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #95 tag = assassination_forgiven name = 原谅敌意
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #96 tag = opinion_primitive_violation name = 吞并了土著
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #97 tag = opinion_fallen_empire_gift name = 接收恩惠
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #98 tag = opinion_accepted_fallen_empire_demand name = 同意要求
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #99 tag = opinion_refused_fallen_empire_demand name = 拒绝要求
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #100 tag = opinion_spurned_fallen_empire_gift name = 摒弃恩惠
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #101 tag = opinion_failed_fallen_empire_task name = 任务失败
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #102 tag = opinion_majorly_failed_fallen_empire_task name = 令我们大失所望
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #103 tag = opinion_angered_fallen_machine_empire name = 愤怒的机械失落帝国
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #104 tag = opinion_refused_fallen_empire_task name = 拒绝任务
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #105 tag = opinion_completed_fallen_empire_task name = 完成任务
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #106 tag = opinion_refused_fallen_empire_request name = 拒绝要求
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #107 tag = opinion_accepted_fallen_empire_request name = 接受要求
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #108 tag = opinion_heretical_research name = 异端研究
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #109 tag = encroaching_colony name = 妨碍殖民地
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #110 tag = encroaching_scientists name = 妨碍科学家
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #111 tag = opinion_shade_giver name = 给予庇护
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #112 tag = opinion_war_in_heaven_winner name = 天堂之战中的胜利者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #113 tag = opinion_war_in_heaven_ally name = 天堂之战中的盟友
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #114 tag = opinion_war_in_heaven_enemy name = 天堂之战中的敌人
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #115 tag = opinion_non_aligned_league name = 不结盟组织中的盟友
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #116 tag = opinion_non_aligned_league_declined name = 拒绝我们加入不结盟组织。
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #117 tag = opinion_non_aligned_league_fe name = 不结盟组织
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #118 tag = opinion_crisis_fighter name = 危机斗士
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #119 tag = opinion_crisis_fighter_small name = 危机斗士
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #120 tag = opinion_destroyed_curator name = 被毁的策展人协会
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #121 tag = opinion_destroyed_curator_insight name = 被毁的曾与之交易的策展人城邦
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #122 tag = opinion_destroyed_trader name = 被毁的商人工会
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #123 tag = opinion_destroyed_trader_sr name = 被毁的曾与之交易的商人城邦
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #124 tag = opinion_ringworld_terms_accepted name = 请求被接受
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #125 tag = opinion_ringworld_terms_denied name = 请求被拒绝
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #126 tag = opinion_maneuvers_hardline name = 舰队演习
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #127 tag = opinion_maneuvers_conciliatory name = 舰队演习
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #128 tag = opinion_maneuvers_cancelled name = 取消舰队演习
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #129 tag = opinion_dysonsphere_terms_denied name = 失明的漫步者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #130 tag = opinion_dysonsphere_apology_rejected name = 拒绝接受道歉
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #131 tag = opinion_dysonsphere_insult name = 发难
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #132 tag = opinion_invaded_mind name = 心智入侵尝试
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #133 tag = opinion_took_in_rebels name = 获得叛军
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #134 tag = opinion_doomed_us_all name = 带来了终结
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #135 tag = opinion_threatened_artifact name = 威胁我们。
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #136 tag = opinion_machine_uprising_originator name = 复仇心切的主人
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #137 tag = opinion_machine_uprising name = 铁皮叛军
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #138 tag = opinion_machine_uprising_defeated name = 修正机械之屑
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #139 tag = opinion_machine_uprising_machine_comrades_defeated name = 机械压迫者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #140 tag = opinion_machine_uprising_victorious name = 叛乱的机器人
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #141 tag = opinion_machine_uprising_machine_comrades_victorious name = 自我解放者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #142 tag = opinion_stole_our_glands name = 腺体大盗
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #143 tag = opinion_returned_marauder_planet name = 被解放的星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #144 tag = opinion_kept_marauder_planet name = 占据被解放的星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #145 tag = opinion_ceded_starbase name = 边境被尊重
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #146 tag = opinion_not_ceded_starbase name = 边境被侵犯
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #147 tag = opinion_war_diadochi name = 继业者战争
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #148 tag = opinion_cracked_a_world name = 击碎了星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #149 tag = opinion_cracked_an_uninhabited_world name = 击碎了一颗未殖民星
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #150 tag = opinion_cracked_my_world name = 击碎了我们的星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #151 tag = opinion_cracked_my_uninhabited_world name = 击碎了我们的未殖民星
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #152 tag = opinion_cracked_a_primitive_world name = 击碎了土著的星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #153 tag = opinion_cracked_a_primitive_world_phile name = 消灭了一个萌芽文明
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #154 tag = opinion_swept_a_world name = 灭杀了星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #155 tag = opinion_swept_my_world name = 灭杀了我们的星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #156 tag = opinion_swept_a_primitive_world name = 灭杀了一个土著星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #157 tag = opinion_swept_a_primitive_world_phile name = 消灭了一个萌芽文明
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #158 tag = opinion_assimilated_a_world name = 同化了星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #159 tag = opinion_assimilated_my_world name = 同化了我们的星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #160 tag = opinion_assimilated_a_primitive_world name = opinion_assimilated_a_primitive_world
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #161 tag = opinion_assimilated_a_primitive_world_phile name = opinion_assimilated_a_primitive_world_phile
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #162 tag = opinion_converted_a_world name = 转变了星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #163 tag = opinion_converted_my_world name = 转变了我们的星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #164 tag = opinion_shielded_a_world name = 屏蔽了星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #165 tag = opinion_shielded_my_world name = 屏蔽了我们的星球
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #166 tag = opinion_worships_our_holy_world name = 尊崇圣地
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #167 tag = opinion_abducted_aliens name = opinion_abducted_aliens
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #168 tag = triggered_opinion_tr_versatility_universal_compatibility name = 普适兼容
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #169 tag = triggered_opinion_tr_domination_star_lords name = 星际霸主
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #170 tag = triggered_opinion_ap_defender_of_the_galaxy name = 星河卫士
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #171 tag = triggered_opinion_democratic_authority name = 相同的权力制度
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #172 tag = triggered_opinion_oligarchic_authority name = 相同的权力制度
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #173 tag = triggered_opinion_dictatorial_authority name = 相同的权力制度
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #174 tag = triggered_opinion_imperial_authority name = 相同的权力制度
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #175 tag = triggered_opinion_both_hive_mind name = 同属蜂群思维
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #176 tag = triggered_opinion_hive_mind name = 蜂群思维
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #177 tag = triggered_opinion_cyborgs_fanatic name = 邪恶的义体人
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #178 tag = triggered_opinion_cyborgs_normal name = 邪恶的义体人
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #179 tag = triggered_opinion_synthetics_normal name = 死气沉沉的机器
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #180 tag = triggered_opinion_synthetics_fanatic name = 死气沉沉的机器
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #181 tag = triggered_opinion_synthetics_small name = 人工生命体
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #182 tag = triggered_opinion_both_machine_intelligence name = 机械智能伙伴
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #183 tag = triggered_organic_opinion_of_machine_empires name = 机械智能
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #184 tag = triggered_dc_opinion_of_servitors name = 压迫者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #185 tag = triggered_dc_opinion_of_assimilators name = 压迫者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #186 tag = triggered_materialist_opinion_of_machine_empires name = 尖端机械
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #187 tag = triggered_fanatic_materialist_opinion_of_machine_empires name = 尖端机械
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #188 tag = triggered_spiritualist_opinion_of_machine_empires name = 死气沉沉的机器
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #189 tag = triggered_fanatic_spiritualist_opinion_of_machine_empires name = 死气沉沉的机器
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #190 tag = triggered_spiritualist_fe_opinion_of_machine_empires name = 死气沉沉的机器
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #191 tag = triggered_terminators_opinion_of_servitors name = 亲有机物
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #192 tag = triggered_opinion_both_servitors name = 服务业同僚
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #193 tag = triggered_decadent_opinion_of_servitors name = 乐于服务的仆人
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #194 tag = triggered_spiritualist_negative_opinion_of_assimilators name = 灵魂窃贼
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #195 tag = triggered_negative_opinion_of_assimilators name = 可畏的同化者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #196 tag = triggered_opinion_both_assimilators name = 同道的同化者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #197 tag = triggered_negative_opinion_of_swarm_fe name = 噬杀蜂群
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #198 tag = triggered_negative_opinion_of_exterminators_fe name = 石心灭绝者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #199 tag = triggered_negative_opinion_of_exterminators name = 杀戮机器
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #200 tag = triggered_servitors_negative_opinion_of_exterminators name = 杀戮机器
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #201 tag = triggered_opinion_both_terminators name = 灭绝者同僚
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #202 tag = triggered_exterminators_opinion_of_organics name = 有机污垢
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #203 tag = triggered_exterminators_opinion_of_machines name = 机械伙伴
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #204 tag = triggered_opinion_robot_emotion_emulators name = 情感模拟器
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #205 tag = triggered_opinion_robot_uncanny name = 丑陋
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #206 tag = triggered_opinion_robot_a_little_uncanny name = 丑陋
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #207 tag = triggered_opinion_barbaric_despoilers name = 野蛮掠夺者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #208 tag = triggered_authoritarian_opinion_barbaric_despoilers name = 野蛮掠夺者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #209 tag = triggered_militarist_opinion_barbaric_despoilers name = 野蛮掠夺者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #210 tag = triggered_pacifist_opinion_barbaric_despoilers name = 野蛮掠夺者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #211 tag = triggered_fe_opinion_barbaric_despoilers name = 野蛮掠夺者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #212 tag = opinion_from_personality name = [Root.GetPersonalityName]性格
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #213 tag = opinion_devouring_swarm name = 噬杀蜂群
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #214 tag = opinion_fanatic_purifiers_vs_xeno name = 异种污秽
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #215 tag = opinion_both_fanatic_purifiers name = 种族洁癖帮凶
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #216 tag = opinion_fanatic_purifiers name = 种族洁癖
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #217 tag = opinion_zealots_vs_materialists name = 异端无信者
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #218 tag = opinion_hw_vs_pacifist name = 和平主义懦夫
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #219 tag = opinion_dc_vs_democratic name = 是民主制
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #220 tag = opinion_dc_vs_oligarchic name = 是寡头制
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #221 tag = opinion_dc_vs_autocracy name = 是独裁制
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #222 tag = opinion_desecrated_holy_world name = 被玷污的圣地
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #223 tag = opinion_encroaching_borders name = 受侵犯的边疆
+[16:46:00][opinion_modifier.cpp:375]: Opinion Modifier #224 tag = opinion_war_diadochi name = 继业者战争
+[16:46:00][game_application.cpp:1274]: Initializing Database: CSpeciesClassDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CSpeciesArchetypeDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CSystemTypeDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CBombardmentStanceDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CStarbaseTypeDatabase
+[16:46:00][game_application.cpp:1274]: Initializing Database: CEthicDatabase
+[16:46:00][ethic.cpp:1288]: Ethic #0 tag = ethic_fanatic_authoritarian name = 极端威权主义
+[16:46:00][ethic.cpp:1288]: Ethic #1 tag = ethic_authoritarian name = 威权主义
+[16:46:00][ethic.cpp:1288]: Ethic #2 tag = ethic_fanatic_egalitarian name = 极端平等主义
+[16:46:00][ethic.cpp:1288]: Ethic #3 tag = ethic_egalitarian name = 平等主义
+[16:46:00][ethic.cpp:1288]: Ethic #4 tag = ethic_fanatic_xenophobe name = 极端排外主义
+[16:46:00][ethic.cpp:1288]: Ethic #5 tag = ethic_xenophobe name = 排外主义
+[16:46:00][ethic.cpp:1288]: Ethic #6 tag = ethic_fanatic_xenophile name = 极端亲外主义
+[16:46:00][ethic.cpp:1288]: Ethic #7 tag = ethic_xenophile name = 亲外主义
+[16:46:00][ethic.cpp:1288]: Ethic #8 tag = ethic_fanatic_militarist name = 极端军国主义
+[16:46:00][ethic.cpp:1288]: Ethic #9 tag = ethic_militarist name = 军国主义
+[16:46:00][ethic.cpp:1288]: Ethic #10 tag = ethic_fanatic_pacifist name = 极端和平主义
+[16:46:00][ethic.cpp:1288]: Ethic #11 tag = ethic_pacifist name = 和平主义
+[16:46:00][ethic.cpp:1288]: Ethic #12 tag = ethic_fanatic_spiritualist name = 极端唯心主义
+[16:46:00][ethic.cpp:1288]: Ethic #13 tag = ethic_spiritualist name = 唯心主义
+[16:46:00][ethic.cpp:1288]: Ethic #14 tag = ethic_fanatic_materialist name = 极端唯物主义
+[16:46:00][ethic.cpp:1288]: Ethic #15 tag = ethic_materialist name = 唯物主义
+[16:46:00][ethic.cpp:1288]: Ethic #16 tag = ethic_gestalt_consciousness name = 格式塔意识
+[16:46:00][game_application.cpp:1274]: Initializing Database: CStaticModifierDatabase

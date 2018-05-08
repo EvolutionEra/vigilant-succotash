@@ -1,0 +1,34 @@
+[gameapplication.cpp:1912]: Resetting game
+[gameapplication.cpp:1944]: Resetting gamestate. Total time: 0.466337
+[gameapplication.cpp:1954]: Destroying HistoryDatabase. Time: 0.0042782
+[gameapplication.cpp:1964]: Reseting IDs. Time: 0.000709425
+[gameapplication.cpp:1971]: Init countries. Time: 0.000709425
+[gameapplication.cpp:2016]: Refreshing knowledge. Time: 0.00354608
+[gameapplication.cpp:2031]: CGraphicalMap ResetGame. Time: 5.23e-07
+[gameapplication.cpp:1912]: Resetting game
+[gameapplication.cpp:1944]: Resetting gamestate. Total time: 0.588063
+[gameapplication.cpp:1954]: Destroying HistoryDatabase. Time: 4.93e-07
+[gameapplication.cpp:1964]: Reseting IDs. Time: 0.000338995
+[gameapplication.cpp:1971]: Init countries. Time: 0.000338995
+[gameapplication.cpp:1984]: Loading HistoryDatabase. Time: 0.0429674
+[gameapplication.cpp:2000]: Executing HistoryEntries. Time: 10.0997
+[gameapplication.cpp:2016]: Refreshing knowledge. Time: 0.0259164
+[gameapplication.cpp:2031]: CGraphicalMap ResetGame. Time: 1.267e-06
+[ingameidler.cpp:5026]: Resetting gamestate
+[gameapplication.cpp:1912]: Resetting game
+[gameapplication.cpp:1944]: Resetting gamestate. Total time: 0.480086
+[gameapplication.cpp:1954]: Destroying HistoryDatabase. Time: 0.00535368
+[gameapplication.cpp:1964]: Reseting IDs. Time: 0.00185736
+[gameapplication.cpp:1971]: Init countries. Time: 0.00185736
+[gameapplication.cpp:2016]: Refreshing knowledge. Time: 0.00242263
+[gameapplication.cpp:2031]: CGraphicalMap ResetGame. Time: 0.0241656
+[ingameidler.cpp:5061]: Gamestate successfully resetted
+[gameapplication.cpp:1912]: Resetting game
+[gameapplication.cpp:1944]: Resetting gamestate. Total time: 0.476618
+[gameapplication.cpp:1954]: Destroying HistoryDatabase. Time: 1.076e-06
+[gameapplication.cpp:1964]: Reseting IDs. Time: 0.000378744
+[gameapplication.cpp:1971]: Init countries. Time: 0.000378744
+[gameapplication.cpp:1984]: Loading HistoryDatabase. Time: 0.148902
+[gameapplication.cpp:2000]: Executing HistoryEntries. Time: 0.0884322
+[gameapplication.cpp:2016]: Refreshing knowledge. Time: 0.0233226
+[gameapplication.cpp:2031]: CGraphicalMap ResetGame. Time: 0.00665054

@@ -1,0 +1,25 @@
+[16:45:23][lexer.cpp:277]: File 'mod/ugc_1074841707.mod' should be in utf8-bom encoding (will try to use it anyways)
+[16:45:23][lexer.cpp:277]: File 'mod/ugc_1173995428.mod' should be in utf8-bom encoding (will try to use it anyways)
+[16:45:23][lexer.cpp:277]: File 'mod/ugc_1310381862.mod' should be in utf8-bom encoding (will try to use it anyways)
+[16:45:23][lexer.cpp:277]: File 'mod/ugc_683409704.mod' should be in utf8-bom encoding (will try to use it anyways)
+[16:45:23][lexer.cpp:277]: File 'mod/ugc_684509615.mod' should be in utf8-bom encoding (will try to use it anyways)
+[16:45:23][lexer.cpp:277]: File 'mod/ugc_697938908.mod' should be in utf8-bom encoding (will try to use it anyways)
+[16:45:23][lexer.cpp:277]: File 'mod/ugc_734129025.mod' should be in utf8-bom encoding (will try to use it anyways)
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=30446) at line 735 and column 78 in localisation/english/replace/r_dip_messages_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=28982) at line 73 and column 64 in localisation/english/replace/r_events_2_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=36825) at line 419 and column 76 in localisation/english/replace/r_events_2_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=36825) at line 420 and column 81 in localisation/english/replace/r_events_2_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=20182) at line 1094 and column 81 in localisation/english/replace/r_events_2_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=32) at line 435 and column 139 in localisation/english/replace/r_events_3_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=22124) at line 333 and column 294 in localisation/english/replace/r_guardian_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=30001) at line 428 and column 98 in localisation/english/replace/r_guardian_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=8220) at line 94 and column 406 in localisation/english/replace/r_horizonsignal_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=36807) at line 229 and column 144 in localisation/english/replace/r_horizonsignal_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=32) at line 229 and column 159 in localisation/english/replace/r_horizonsignal_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=21463) at line 5725 and column 41 in localisation/english/replace/r_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=35299) at line 213 and column 76 in localisation/english/replace/r_marauder_l_english.yml
+[16:45:32][localization_reader.cpp:254]: Illegal break character (utf32=20102) at line 213 and column 79 in localisation/english/replace/r_marauder_l_english.yml
+[16:45:45][guigraphics.cpp:909]: No font with name null_font
+[16:45:45][guigraphics.cpp:909]: No font with name null_font
+[16:45:45][guigraphics.cpp:909]: No font with name null_font
+[16:45:45][guigraphics.cpp:909]: No font with name null_font

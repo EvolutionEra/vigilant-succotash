@@ -1,0 +1,61 @@
+"Yldar Interstellar Council"
+={
+	key="Yldar Interstellar Council"
+	ship_prefix="ISS"
+	species={
+		class="HUM"
+		portrait="human"
+		name="Yldar"
+		plural="Yldars"
+		adjective="Yldaran"
+		name_list="HUMAN2"
+		trait="trait_intelligent"
+		trait="trait_slow_breeders"
+		trait="trait_sedentary"
+		trait="trait_industrious"
+	}
+	name="Yldar Interstellar Council"
+	adjective="Yldaran"
+	authority="auth_oligarchic"
+	government="gov_executive_committee"
+	planet_name="Mirati"
+	planet_class="pc_continental"
+	system_name="Mireesh Mar"
+	initializer=""
+	graphical_culture="mammalian_01"
+	city_graphical_culture="mammalian_01"
+	empire_flag={
+		icon={
+			category="paradox"
+			file="paradox_logo.dds"
+		}
+		background={
+			category="backgrounds"
+			file="horizontal.dds"
+		}
+		colors={
+			"light_blue"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		gender=female
+		name="Ju Kuang"
+		portrait="human_female_04"
+		texture=0
+		hair=8
+		clothes=0
+	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room="personality_fanatic_befrienders_room"
+	spawn_enabled=yes
+	ethic="ethic_pacifist"
+	ethic="ethic_fanatic_materialist"
+	civics={
+		"civic_mechanists"
+		"civic_mining_guilds"
+	}
+}
